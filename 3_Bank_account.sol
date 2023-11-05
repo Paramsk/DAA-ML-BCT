@@ -1,4 +1,4 @@
-pragma solidity >= 0.7.0;
+pragma solidity >= 0.8.12;
 // Write  a  smart  contract  on  a  test  network,  for  Bank  account  of  a  customer  for
   // following operations: Deposit money | Withdraw Money | Show balance
 contract Bank{
